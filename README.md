@@ -1,5 +1,5 @@
 # csc413-SecondGame
 
-## Student Name :
-## Student ID :
+## Student Name : Kenneth Surban 
+## Student ID : 913399830
 
